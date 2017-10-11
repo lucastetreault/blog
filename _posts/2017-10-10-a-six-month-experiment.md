@@ -15,7 +15,7 @@ First, no more side projects. I have a tendency to get totally wrapped up in stu
 
 Second, she wanted to benefit too! If I was going to be travelling every week, then she wanted to be able to visit me in whatever city I was working in and do some travelling too. 
 
-Third, this was never going to be a career for the rest of my life. We agreed that as Madeline got older I would need and want to be around more often. We agreed that this job had a potential lifespan of 3-5 years. Most importantly, we agreed that we would give it an honest effort for 6 months. We both knew I was asking a lot of Erica, being at home alone with a 7 month old baby while her husband lives off expenses in a swanky hotel. After 6 months, Erica was allowed to veto the TW job and ask me to look for work in Regina again. 
+Third, this was never going to be a career for the rest of my life. We agreed that as Madeline got older I would need to be around. We agreed that this job had a potential lifespan of 3-5 years. Most importantly, we agreed that we would give it an honest effort for 6 months. We both knew I was asking a lot of Erica, being at home alone with a 7 month old baby while her husband lives off expenses in a swanky hotel. After 6 months, Erica was allowed to veto the TW job and ask me to look for work in Regina again. 
 
 ### The sweet new job
 In the end, she agreed, and I accepted the job. The first few weeks were like living in a dream. I was exhausted from the 6am Monday morning flights and the 10 hour work days. When I got home on the weekends I did my best to live up to our agreement and not touch my laptop. 
@@ -24,7 +24,7 @@ I worked with some really smart and talented people and I learned a ton. The QA 
  
 I could (and probably should) write several posts about being a frequent flyer, hotel and airline loyalty programs, dining out, working out, etc... For now, I will just say I racked up a ton of Aeroplan and SPG points - our next family vacation is going to be free. 
 
-As much as I loved my job a Thoughtworks, Erica was having a rough time at home alone with Madeline, especially after her maternity leave was finished and she went back to work. I was struggling too - I was constantly tired from the travel and long work days, my social life was suffering because I wanted to spend time with Erica and Madeline whenever I was home so I didn't really see any of my friends, and I wasn't getting as much work done on side projects as I would have liked. It also goes without saying that I missed Erica and Maddie like crazy every day I was away.
+As much as I loved my job at Thoughtworks, Erica was having a rough time at home alone with Madeline, especially after her maternity leave was finished and she went back to work. I was struggling too - I was constantly tired from the travel and long work days, my social life was suffering because I wanted to spend time with Erica and Madeline whenever I was home so I didn't really see any of my friends, and I wasn't getting as much work done on side projects as I would have liked. It also goes without saying that I missed Erica and Maddie like crazy every day I was away.
  
 ### What next?
 
