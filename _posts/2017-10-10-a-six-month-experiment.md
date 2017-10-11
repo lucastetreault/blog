@@ -22,7 +22,7 @@ In the end, she agreed, and I accepted the job. The first few weeks were like li
 
 I worked with some really smart and talented people and I learned a ton. The QA person on my team was a former Google employee who actively reviewed code and requested additional unit/integration tests or supplemented the tests themselves. Maybe I was living under a rock before - but I have never met a QA person with that kind of technical know-how! The iteration manager had a M.Sc. in Computer Science and was the least technical person on the team! I was in heaven! 
  
-I could (and probably should) write several posts about being a frequent flyer - hotel and airline loyalty programs, dining out, working out, etc... For now, I will just say I racked up a ton of Aeroplan and SPG points - our next family vacation is going to be free. 
+I could (and probably should) write several posts about being a frequent flyer, hotel and airline loyalty programs, dining out, working out, etc... For now, I will just say I racked up a ton of Aeroplan and SPG points - our next family vacation is going to be free. 
 
 As much as I loved my job a Thoughtworks, Erica was having a rough time at home alone with Madeline, especially after her maternity leave was finished and she went back to work. I was struggling too - I was constantly tired from the travel and long work days, my social life was suffering because I wanted to spend time with Erica and Madeline whenever I was home so I didn't really see any of my friends, and I wasn't getting as much work done on side projects as I would have liked. It also goes without saying that I missed Erica and Maddie like crazy every day I was away.
  
