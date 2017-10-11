@@ -2,15 +2,15 @@
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Lucas Tétreault
+tagline:          'a tech blog'
+description:      'A software developer with nearly a decade of experience. Passionate about quality and values practices such as test driven development, pair programming and automated testing.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Lucas Tétreault'
+  url:            https://twitter.com/ltetreault
 
 paginate:         5
 
@@ -18,4 +18,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/lucastetreault
