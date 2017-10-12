@@ -6,7 +6,7 @@ title:            Lucas Tétreault
 tagline:          'a tech blog'
 description:      'A software developer with nearly a decade of experience. Passionate about quality and xp practices such as test driven development, pair programming and automated testing.'
 url:              http://lucastetreault.ca
-baseurl:          /blog/
+baseurl:          /blog
 
 author:
   name:           'Lucas Tétreault'
