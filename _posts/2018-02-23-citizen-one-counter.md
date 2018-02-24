@@ -1,6 +1,4 @@
-### Citizen One Identity Counter
-
-![](https://github.com/lucastetreault/blog/raw/master/public/assets/c1-counter.jpg "")
+![Citizen One Identity Counter](https://github.com/lucastetreault/blog/raw/master/public/assets/c1-counter.jpg "Citizen One Identity Counter")
 
 At [Vivvo](http://www.vivvo.com/) we have set a goal this calendar year to hit 500k active users in the system. We are building features like crazy and we are preparing to take the product on the road to demo it across the country. I am seriously pumped about the direction the platform is taking and I think we are narrowing in on an untapped market niche that will make our platform very successful! 
 
